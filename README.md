@@ -23,27 +23,27 @@ I'm interested in the intersection of **machine learning, backend systems, and f
 
 ## Featured Projects
 
-### 🎮 [AI-Powered Smart NPC Game Engine](https://github.com/raunakkukreja)
+### 🎮 [AI-Powered Smart NPC Game Engine](https://github.com/raunakkukreja/AI_NPCs)
 A 2D RPG where 11 NPCs are driven by a locally-hosted, quantized **LLaMA 3 8B** model — no cloud API.
 Built a custom gossip/memory system so NPCs remember conversations, share information, and form opinions about each other.
 `Python` `FastAPI` `llama-cpp-python` `Node.js` `React` `Canvas API`
 
 ---
 
-### 🏥 [PCOSense — PCOS Risk Detection Tool](https://github.com/raunakkukreja) &nbsp;`Live`
+### 🏥 [PCOSense — PCOS Risk Detection Tool](https://pcos-website-jet.vercel.app/) &nbsp;`Live`
 An explainable AI healthcare app combining a **ResNet-18 CNN** (ultrasound image analysis) and an **XGBoost** classifier (survey data) with SHAP + Grad-CAM explainability.
 Deployed on Render (FastAPI, 512 MB constraint) + Vercel (React frontend).
 `Python` `PyTorch` `XGBoost` `SHAP` `FastAPI` `React 19` `Vercel` `Render`
 
 ---
 
-### 🏏 [Fantasy Cricket ML Optimizer](https://github.com/raunakkukreja) &nbsp;`Top 5% — FIFS Gameathon 2.0 (300+ teams)`
+### 🏏 [Fantasy Cricket ML Optimizer](https://github.com/raunakkukreja/virat_query) &nbsp;`Top 5% — FIFS Gameathon 2.0 (300+ teams)`
 Predicts IPL player fantasy points using a hybrid **XGBoost + LightGBM/TF** ensemble, then frames team selection as a **0-1 Knapsack ILP** (PuLP) to maximize points under budget and role constraints.
 `Python` `XGBoost` `LightGBM` `TensorFlow` `PuLP` `pandas` `RapidFuzz`
 
 ---
 
-### 🗺️ [AI-Augmented A* Pathfinding](https://github.com/raunakkukreja)
+### 🗺️ [AI-Augmented A* Pathfinding](https://github.com/raunakkukreja/Augmented-A-star)
 Replaced A*'s static heuristic with a **Gradient Boosting Regressor** trained on 10,000+ self-labeled maze solutions. Includes heuristic caching to reduce ML inference overhead inside the search loop.
 `Python` `Scikit-Learn` `NumPy` `Matplotlib`
 
@@ -65,14 +65,6 @@ Replaced A*'s static heuristic with a **Gradient Boosting Regressor** trained on
 
 **Tools & Deployment**
 `Git` `Docker` `Vercel` `Render` `Jupyter` `Power BI`
-
----
-
-## Currently Learning
-
-- Deeper **systems programming** (C, memory management, concurrency)
-- **Reinforcement learning** fundamentals
-- Building more production-grade ML pipelines (monitoring, retraining, drift)
 
 ---
 
