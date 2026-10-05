@@ -1,14 +1,11 @@
 # Hey, I'm Raunak 👋
-
-AI & ML engineering student who is learning with the machine.
-
 ---
 
 ## About Me
 
-I'm a Final-year **AI & ML Engineering student** at MS Ramaiah Institute of Technology, Bengaluru. I learn best by building .So most of what I know came from shipping actual projects, hitting real constraints, and figuring out why things broke.
+I'm a Final-year **AI & ML Engineering student** at MS Ramaiah Institute of Technology, Bengaluru. I learn best by building .So most of what I know came from shipping actual projects, hitting real constraints, and figuring out why things broke. I like to believe I am inquisitive by nature. 
 
-I'm interested in the intersection of **machine learning, backend systems, and full-stack development**. I like to work on any kind of project which solves a problem. I am not a sucker for fun but solving a problem is fun too. 
+I'm interested in the intersection of **machine learning, backend systems, and full-stack development**. I like to work on any kind of project which solves a problem. I am not a sucker for fun but solving a problem is fun too. I take my time to understand and solve problems.
 
 ---
 
